@@ -1,0 +1,14 @@
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.exe.config
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.exe
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.pdb
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.csprojResolveAssemblyReference.cache
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.csproj.CoreCompileInputs.cache
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.exe
+C:\Users\r028367\source\repos\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.pdb
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.exe.config
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.exe
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.pdb
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.csprojResolveAssemblyReference.cache
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.csproj.CoreCompileInputs.cache
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.exe
+C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.pdb

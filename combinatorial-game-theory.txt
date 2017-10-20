@@ -1,0 +1,13 @@
+http://www.geeksforgeeks.org/introduction-to-combinatorial-game-theory/
+
+
+NIM Game
+https://www.tutorbrasil.com.br/estudo_matematica_online/curiosidades_matematica/jogo_do_nim/jogo_do_nim_estrategia_vencedora.php
+
+
+
+Nim-Sum
+http://www.math.ucla.edu/~radko/circles/lib/data/Handout-141-156.pdf
+https://plus.maths.org/content/play-win-nim
+http://www.archimedes-lab.org/How_to_Solve/Win_at_Nim.html
+https://brilliant.org/wiki/nim/
