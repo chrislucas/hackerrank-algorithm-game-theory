@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AChessboardGame", "AChessboardGame\AChessboardGame.csproj", "{699ABAE3-CADB-4CFD-ACD9-13C69CE6989C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "raw", "raw", "{43B76FF9-A7BA-4CF1-A5E2-053417F15D58}"
+	ProjectSection(SolutionItems) = preProject
+		links.txt = links.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
