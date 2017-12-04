@@ -11,3 +11,4 @@ http://www.math.ucla.edu/~radko/circles/lib/data/Handout-141-156.pdf
 https://plus.maths.org/content/play-win-nim
 http://www.archimedes-lab.org/How_to_Solve/Win_at_Nim.html
 https://brilliant.org/wiki/nim/
+
