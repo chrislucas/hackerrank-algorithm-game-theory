@@ -12,3 +12,9 @@ C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debu
 C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.csproj.CoreCompileInputs.cache
 C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.exe
 C:\Users\r028367\Documents\repositories\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.pdb
+G:\repositories\github\hackerrank-algorithm-game-theory\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.exe.config
+G:\repositories\github\hackerrank-algorithm-game-theory\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.exe
+G:\repositories\github\hackerrank-algorithm-game-theory\AChessboardGame\AChessboardGame\bin\Debug\AChessboardGame.pdb
+G:\repositories\github\hackerrank-algorithm-game-theory\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.csprojResolveAssemblyReference.cache
+G:\repositories\github\hackerrank-algorithm-game-theory\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.exe
+G:\repositories\github\hackerrank-algorithm-game-theory\AChessboardGame\AChessboardGame\obj\Debug\AChessboardGame.pdb

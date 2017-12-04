@@ -1,0 +1,7 @@
+https://www.dotnetperls.com/dictionary
+http://csharp.net-informations.com/collection/dictionary.htm
+
+Multidimensional Array C#
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/arrays/multidimensional-arrays
+https://stackoverflow.com/questions/4193440/n-dimensional-array
+https://www.tutorialspoint.com/csharp/csharp_multi_dimensional_arrays.htm
